@@ -2,7 +2,7 @@
 
 Metadata and links only. The papers are hosted on Zenodo, which is the canonical copy. PDFs are not stored here.
 
-Author: Audrey Walter-Evans, ORCID [0009-0005-0663-7832](https://orcid.org/0009-0005-0663-7832). All six are open-access preprints under CC BY 4.0. Titles and DOIs were read from the Zenodo API on 2026-11-26.
+Author: Audrey Walter-Evans, ORCID [0009-0004-9108-3995](https://orcid.org/0009-0004-9108-3995). All six are open-access preprints under CC BY 4.0. Titles and DOIs were read from the Zenodo API on 2026-11-26.
 
 The "this version" DOI points to the version listed on that date. The concept DOI always resolves to the newest version.
 

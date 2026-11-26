@@ -4,7 +4,7 @@ Public home for the computational epigraphy work of **Audrey Walter-Evans** (Aud
 
 The research asks a narrow question: what can be tested about undeciphered scripts such as **Linear A** and the **Tărtăria** tablets, and how do we tell a real signal from a convincing story? The approach is falsification-first. Hypotheses are written down as explicit models, run against pre-registered criteria and permuted controls, and calibrated on a known script (Linear B) before they are applied to an unknown one.
 
-- ORCID: [0009-0005-0663-7832](https://orcid.org/0009-0005-0663-7832)
+- ORCID: [0009-0004-9108-3995](https://orcid.org/0009-0004-9108-3995)
 - Website: [oaudrey.com](https://oaudrey.com)
 - Zenodo: papers below, each with a DOI
 
