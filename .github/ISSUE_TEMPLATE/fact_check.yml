@@ -1,0 +1,36 @@
+name: Fact-check report
+description: Check a claim in a paper, tool, or doc against published sources. Everything is fact-checked, including the author's own work.
+title: "[Fact-check] "
+labels:
+  - fact-check
+body:
+  - type: input
+    id: where
+    attributes:
+      label: Where the claim appears
+      description: File, paper DOI, or tool, with page or line.
+    validations:
+      required: true
+  - type: textarea
+    id: claim
+    attributes:
+      label: The claim, quoted exactly
+    validations:
+      required: true
+  - type: dropdown
+    id: verdict
+    attributes:
+      label: Verdict
+      options:
+        - Supported
+        - Wrong
+        - Not confirmed
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Sources
+      description: Links and page numbers for what the sources actually say.
+    validations:
+      required: true

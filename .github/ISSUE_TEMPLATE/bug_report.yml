@@ -1,0 +1,25 @@
+name: Bug report
+description: Something in a tool does not work as described.
+title: "fix: "
+labels:
+  - bug
+body:
+  - type: input
+    id: version
+    attributes:
+      label: Tool and version
+      placeholder: example-tool v0.1.0
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What you expected and what happened
+    validations:
+      required: true

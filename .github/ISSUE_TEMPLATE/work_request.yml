@@ -1,0 +1,27 @@
+name: Work Request
+description: Ask for a new tool, feature, write-up, or change. Title and description are enough.
+title: "[WR] "
+labels:
+  - work-request
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Start the title with **[WR]** and say what you want in one line.
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: What problem are you solving, what outcome do you want, and any constraints?
+    validations:
+      required: true
+  - type: input
+    id: tool
+    attributes:
+      label: Tool or folder (if any)
+      placeholder: tools/<tool-name>
+  - type: textarea
+    id: sources
+    attributes:
+      label: Sources
+      description: Links (DOIs, publisher pages) for any claim this work relies on. Do not attach copyrighted files.

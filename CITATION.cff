@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use material from this repository, please cite it as below. To cite a paper, use its DOI from papers/README.md."
+title: "AtomicCypher"
+type: software
+authors:
+  - family-names: "Walter-Evans"
+    given-names: "Audrey"
+    orcid: "https://orcid.org/0009-0005-0663-7832"
+repository-code: "https://github.com/midnghtsapphire/AtomicCypher"
+license: MIT
+keywords:
+  - epigraphy
+  - linear-a
+  - tartaria
+  - ai-evaluation
+  - multi-agent-systems

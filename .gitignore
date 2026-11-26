@@ -1,0 +1,11 @@
+# Local environments and caches
+.venv/
+__pycache__/
+*.pyc
+node_modules/
+.DS_Store
+# Secrets must never be committed
+.env
+.env.*
+*.pem
+*.key
